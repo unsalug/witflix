@@ -211,6 +211,12 @@ footer h5 {
         flex-wrap: wrap;
     }
 
+    header h1 {
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
     header nav {
         order: 1;
         width: 100%;
@@ -225,7 +231,6 @@ footer h5 {
     .nav-menu {
         display: block;
     }
-
 
     .main-movie {
         width: 100%;
