@@ -228,6 +228,12 @@ footer h5 {
         display: none;
     }
 
+    .nav-menu:hover + .user-panel {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
     .nav-menu {
         display: block;
     }
