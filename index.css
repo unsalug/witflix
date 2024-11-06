@@ -70,9 +70,12 @@ main {
     padding: 1rem;
     display: flex;
     align-items: center;
+    background: rgb(164, 154, 173);
 }
 
-
+.hero-img {
+    margin-left: 1.5rem;
+}
 .user-rating i {
     color:red;
 }
@@ -150,6 +153,7 @@ button i {
     padding: 2rem 1rem;
     display: flex;
     align-items: center;
+    background: rgb(164, 154, 173);
 }
 
 .movie-card h4 {
